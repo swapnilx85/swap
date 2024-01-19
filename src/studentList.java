@@ -4,8 +4,9 @@
  */
 
 /**
- *
+ *this is to show modification
  * @author asus
+ * this is to show revert commit
  */
 public class studentList {
     public static void main(String[] args) {
@@ -23,3 +24,4 @@ public class studentList {
     }
     
 }
+ 
