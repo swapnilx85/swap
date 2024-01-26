@@ -7,6 +7,7 @@
  *
  * @author asus
  */
+//updating thr code from git
 public class student {
    
     private int sId;
